@@ -1,5 +1,5 @@
 # TICCO_2017 
-Es un software realizado con las tecnologías materialize: css, jquery.js y cuanta con google analitics. El sistema permite la visualización de crímenes de extorsión, amenazas, delitos sexuales, violencia intrafamiliar, homicidios y capturas categorizados por ciudades y factores asociados a dichos crímenes. El análisis de los datos y los gráficos fueron realizados en el software TABLEAU. El proceso de ETL de cada repositorio de datos se encuentra disponisble para descargar en cada delito al pie del gráfico.
+Es un software realizado con las tecnologías materialize: css, jquery.js y cuanta con google analitics. El sistema permite la visualización de crímenes de extorsión, amenazas, delitos sexuales, violencia intrafamiliar, homicidios y capturas categorizados por ciudades y factores asociados a dichos crímenes. El análisis de los datos y los gráficos fueron realizados en el software TABLEAU. El proceso de ETL de cada repositorio de datos se encuentra disponible para descargar en cada delito al pie del gráfico.
 
 # Instalación
 Para poder visualizar el proyecto descargue los archivos y haga doble click en index.html
