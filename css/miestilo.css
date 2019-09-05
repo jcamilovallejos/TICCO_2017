@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+#id_image{
+    width: 100%;
+    height: auto;
+}
+
+#id_background{
+    background-color: #025e75;
+}
+
+#id_background_text{
+    background:rgba(66,66,66,0.5);
+}
+
+#id_background_color{
+    background-color: #027d8d;
+}
+
+.color_text{
+    color: black;
+    align-items: center;
+}
